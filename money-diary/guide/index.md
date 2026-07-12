@@ -112,6 +112,6 @@ Purchases and refunds are handled by Apple. Money Diary Pro is a one-time, non-c
 
 ## Contact Support
 
-For help, bug reports, or suggestions, visit [Money Diary Support](https://shuyizhao.com/money-diary/support/) or email [support@shuyizhao.com](mailto:support@shuyizhao.com).
+For help, bug reports, or suggestions, visit [Money Diary Support](https://shuyizhao.com/money-diary/support/) or email [shuyizhao.support@gmail.com](mailto:shuyizhao.support@gmail.com).
 
 Please do not email transaction details, financial records, or backup files.

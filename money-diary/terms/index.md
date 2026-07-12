@@ -107,4 +107,4 @@ If any provision of these Terms is found unenforceable, the remaining provisions
 
 For support or questions about these Terms, contact:
 
-`support@shuyizhao.com`
+`shuyizhao.support@gmail.com`

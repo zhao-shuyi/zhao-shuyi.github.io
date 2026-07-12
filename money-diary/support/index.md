@@ -2,7 +2,7 @@
 
 Need help with Money Diary, want to report a problem, or have a suggestion?
 
-Email us at [support@shuyizhao.com](mailto:support@shuyizhao.com).
+Email us at [shuyizhao.support@gmail.com](mailto:shuyizhao.support@gmail.com).
 
 We will do our best to respond as soon as reasonably possible. Please do not include transaction details, financial records, backup files, or other sensitive information in your message.
 

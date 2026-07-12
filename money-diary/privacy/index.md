@@ -108,4 +108,4 @@ We may update this Privacy Policy if Money Diary's features, data practices, or 
 
 For privacy questions, contact:
 
-`support@shuyizhao.com`
+`shuyizhao.support@gmail.com`
