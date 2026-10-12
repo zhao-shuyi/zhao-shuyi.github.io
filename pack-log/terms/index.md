@@ -36,7 +36,7 @@ Do not use Pack Log for illegal activity, to infringe another person's rights, o
 
 ## 3. Pro Purchase and Free Limits
 
-Pack Log is free to download and use. Without a purchase, the app limits you to one open (planned or active) trip at a time and up to eight kits, and shows the ten most recent completed trips in the Logbook. Older completed trips are not deleted — they reappear if you unlock Pro.
+Pack Log is free to download and use. Without a purchase, the app limits you to one open (planned or active) trip at a time and up to eight kits, and shows the three most recent completed trips in the Logbook. Older completed trips are not deleted — they reappear if you unlock Pro.
 
 Pack Log may offer a one-time, non-consumable in-app purchase called Pack Log Pro. It is not a subscription and does not auto-renew. Pack Log Pro removes those limits and unlocks iCloud Sync, including Delete iCloud Data.
 

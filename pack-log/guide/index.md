@@ -117,7 +117,7 @@ Open a completed trip to review exactly what happened. Tap **Save List as Kit** 
 
 ## Free and Pack Log Pro
 
-Pack Log is free to use. Without Pro you can have **one open trip at a time** (completing a trip frees the slot) and **eight kits**, and the Logbook shows your ten most recent completed trips (older ones are kept, and return with Pro). Nothing is ever deleted because of these limits.
+Pack Log is free to use. Without Pro you can have **one open trip at a time** (completing a trip frees the slot) and **eight kits**, and the Logbook shows your three most recent completed trips (older ones are kept, and return with Pro). Nothing is ever deleted because of these limits.
 
 **Pack Log Pro** is a one-time, non-consumable purchase — not a subscription — that removes those limits and unlocks **iCloud Sync**. You'll see it when you tap the locked **Enable Sync** row (**Settings > iCloud Sync**) or try to go past a free limit.
 
