@@ -23,3 +23,13 @@ An offline-first travel packing app for iPhone and iPad.
 - [Terms of Use](./pack-log/terms/)
 - [Support](./pack-log/support/)
 - [User Guide](./pack-log/guide/)
+
+### Own Orbit
+
+An offline-first planner for tasks and calendar, habits, and the movies, series and books you love, for iPhone and iPad.
+
+- [Own Orbit](./own-orbit/)
+- [Privacy Policy](./own-orbit/privacy/)
+- [Terms of Use](./own-orbit/terms/)
+- [Support](./own-orbit/support/)
+- [User Guide](./own-orbit/guide/)

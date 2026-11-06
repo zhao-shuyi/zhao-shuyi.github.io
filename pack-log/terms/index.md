@@ -58,7 +58,7 @@ Apple operates iCloud and CloudKit. Your use of iCloud is governed by Apple's ap
 
 ## 5. Your Data, Safety Snapshots, and Backups
 
-Your Pack Log data belongs to you. Pack Log does not collect it (see the [Privacy Policy](PRIVACY_POLICY.md)).
+Your Pack Log data belongs to you. Pack Log does not collect it (see the [Privacy Policy](https://shuyizhao.com/pack-log/privacy/)).
 
 Pack Log does not provide export, import, or backup files. Before certain destructive actions (Delete iCloud Data and Restore Existing iCloud Data) it saves a local safety snapshot on your device as a precaution, but this is an internal safeguard and not a backup service; you should not rely on it to recover your data. Your device's own backups made through Apple's tools may include Pack Log's data, and you are responsible for keeping them if you want a copy.
 

@@ -71,7 +71,7 @@ Money Diary does not provide financial, legal, accounting, tax, investment, or p
 
 ## 8. Privacy
 
-Money Diary's privacy practices are described in the [Money Diary Privacy Policy](PRIVACY_POLICY.md). Please review it to understand how the app stores data locally, uses optional iCloud Sync, handles backups, refreshes exchange rates, and processes purchases through Apple.
+Money Diary's privacy practices are described in the [Money Diary Privacy Policy](https://shuyizhao.com/money-diary/privacy/). Please review it to understand how the app stores data locally, uses optional iCloud Sync, handles backups, refreshes exchange rates, and processes purchases through Apple.
 
 ## 9. Intellectual Property
 
