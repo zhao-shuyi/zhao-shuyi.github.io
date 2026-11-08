@@ -1,6 +1,6 @@
 # Own Orbit Privacy Policy
 
-Last updated: November 6, 2026
+Last updated: November 7, 2026
 
 Own Orbit is developed and published by Shuyi Zhao ("we", "us", "our"). Own Orbit is an offline-first planner for tasks and calendar, habits, and a Shelf for the movies, TV series and books you're into. Your tasks, habits, Shelf items, cover photos and settings are stored on your device by default. We do not operate an account system for Own Orbit, and we do not run analytics, advertising, tracking, or third-party SDKs in the app.
 
@@ -64,7 +64,7 @@ You can add a cover photo to a Shelf item.
 ## Reminders and Notifications
 
 - Own Orbit asks for permission to send notifications the first time you set a reminder on a task or habit, never at launch.
-- All reminders are scheduled locally on your device by iOS. Their text (a task's title and when it is due, or a habit's name) is created on the device and is not sent to us.
+- All reminders are scheduled locally on your device by iOS. Their text (a task's title and when it is due, a habit's name, or the title of a subscribed-calendar event if you turn on reminders for those) is created on the device and is not sent to us.
 - If you turn on the app icon badge, Own Orbit also schedules silent local notifications around midnight so the badge count is right for the new day.
 - Own Orbit does not send push notifications or marketing messages. (If you use iCloud Sync, Apple's silent update notifications tell your devices that new data is waiting; Apple handles these and they carry none of your records.)
 

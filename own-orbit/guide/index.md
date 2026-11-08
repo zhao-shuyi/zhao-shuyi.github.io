@@ -52,7 +52,9 @@ Tap **Repeat** (a task needs a date first): Daily, Weekly, Monthly, Yearly or **
 
 ### Reminders
 
-A task can have several reminders: at the due time, a few minutes, an hour or a day before, or a custom time. All-day tasks remind you at the **Default reminder time** (**Settings > General**, 09:00 at first). Tap a reminder to open its task. If notifications are off, the reminder list shows a notice with a button to open iOS Settings.
+A task can have several reminders: at the due time, a few minutes, an hour or a day before, or a custom time. All-day tasks remind you at the **Default reminder time** (**Settings > General**, 09:00 at first). A task you give a date but no time starts with the reminder chosen in **Settings > General > New all-day tasks** (On the day at first), and a task you give a time starts with **New timed tasks**; you can change the reminders on each task. One occurrence of a repeating task can have its own reminders: change them in that occurrence's detail, and the rest of the series stays as it was. Tap a reminder to open its task. If notifications are off, the reminder list shows a notice with a button to open iOS Settings.
+
+**Subscribed events** (**Settings > General**, Pro) can remind you of the events in your subscribed calendars, at the start (the first choice) or a little before, or not at all. Events on your device's own calendars are alerted by the Calendar app, not by Own Orbit.
 
 The **App icon badge** (**Settings > General**) can count today's tasks, today's plus overdue tasks, or nothing.
 
